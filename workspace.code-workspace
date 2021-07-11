@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "My_Site",
+			"path": "..\\My_Site"
+		}
+	],
+	"settings": {
+		"explorer.compactFolders": false,
+		"terminal.integrated.sendKeybindingsToShell": true,
+		"liveServer.settings.multiRootWorkspaceName": "Week1"
+	}
+}

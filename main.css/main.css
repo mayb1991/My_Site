@@ -1,0 +1,14 @@
+:root{
+    --main: #E3170A;
+    --lite: #A5D8FF;
+    --dark: #2C365E;
+}
+body{
+color: var(--main);
+}
+
+main{
+    background-color:var(--main);
+    height: 90vh;
+}
+
